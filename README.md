@@ -8,7 +8,9 @@ Django
 git clone https://github.com/douglashiura/numero-por-extenso.git
 
 cd numero-por-extenso		      -- Entrar no repositório    
+
 python3 manager.py test		    -- Rodar os testes
+
 python3 manager.py runserver	-- Rodar o serviço
 
 
