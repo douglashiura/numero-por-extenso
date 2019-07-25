@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: extenso/numero/numeros.py:46 extenso/numero/numeros.py:48
+#: extenso/numero/numeros.py:58 extenso/numero/numeros.py:66
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-25 01:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+#: extenso/numero/numero.py:29
+msgid "zero"
+msgstr "zero"
+
+#: extenso/numero/numero.py:32 extenso/numero/numero.py:44
+msgid "dez"
+msgstr "dez"
+
+#: extenso/numero/numero.py:38
+msgid "um"
+msgstr "um"
+
+#: extenso/numero/numero.py:41
+msgid "onze"
+msgstr "onze"
+
+#: extenso/numero/numero.py:47
+msgid "cento"
+msgstr "cento"
+
+#: extenso/numero/numero.py:47
+msgid "cem"
+msgstr "cem"
+
+#: extenso/numero/numero.py:52
+msgid "dois"
+msgstr "dois"
+
+#: extenso/numero/numero.py:55
+msgid "doze"
+msgstr "doze"
+
+#: extenso/numero/numero.py:58
+msgid "vinte"
+msgstr "vinte"
+
+#: extenso/numero/numero.py:61
+msgid "duzentos"
+msgstr "duzentos"
+
+#: extenso/numero/numero.py:67
+msgid "três"
+msgstr "três"
+
+#: extenso/numero/numero.py:70
+msgid "treze"
+msgstr "treze"
+
+#: extenso/numero/numero.py:73
+msgid "trinta"
+msgstr "trinta"
+
+#: extenso/numero/numero.py:76
+msgid "trezentos"
+msgstr "trezentos"
+
+#: extenso/numero/numero.py:82
+msgid "quatro"
+msgstr "quatro"
+
+#: extenso/numero/numero.py:85
+msgid "quatorze"
+msgstr "quatorze"
+
+#: extenso/numero/numero.py:88
+msgid "quarenta"
+msgstr "quarenta"
+
+#: extenso/numero/numero.py:91
+msgid "quatrocentos"
+msgstr "quatrocentos"
+
+#: extenso/numero/numero.py:97
+msgid "cinco"
+msgstr "cinco"
+
+#: extenso/numero/numero.py:100
+msgid "quinze"
+msgstr "quinze"
+
+#: extenso/numero/numero.py:103
+msgid "cinquenta"
+msgstr "cinquenta"
+
+#: extenso/numero/numero.py:106
+msgid "quinhentos"
+msgstr "quinhentos"
+
+#: extenso/numero/numero.py:112
+msgid "seis"
+msgstr "seis"
+
+#: extenso/numero/numero.py:115
+msgid "dezesseis"
+msgstr "dezesseis"
+
+#: extenso/numero/numero.py:118
+msgid "sessenta"
+msgstr "sessenta"
+
+#: extenso/numero/numero.py:121
+msgid "seiscentos"
+msgstr "seiscentos"
+
+#: extenso/numero/numero.py:127
+msgid "sete"
+msgstr "sete"
+
+#: extenso/numero/numero.py:130
+msgid "dezessete"
+msgstr "dezessete"
+
+#: extenso/numero/numero.py:133
+msgid "setenta"
+msgstr "setenta"
+
+#: extenso/numero/numero.py:136
+msgid "setecentos"
+msgstr "setecentos"
+
+#: extenso/numero/numero.py:142
+msgid "oito"
+msgstr "oito"
+
+#: extenso/numero/numero.py:145
+msgid "dezoito"
+msgstr "dezoito"
+
+#: extenso/numero/numero.py:148
+msgid "oitenta"
+msgstr "oitenta"
+
+#: extenso/numero/numero.py:151
+msgid "oitocentos"
+msgstr "oitocentos"
+
+#: extenso/numero/numero.py:157
+msgid "nove"
+msgstr "nove"
+
+#: extenso/numero/numero.py:160
+msgid "dezenove"
+msgstr "dezenove"
+
+#: extenso/numero/numero.py:163
+msgid "noventa"
+msgstr "noventa"
+
+#: extenso/numero/numero.py:166
+msgid "novecentos"
+msgstr "novecentos"
+
+#: extenso/numero/numeros.py:12
+msgid "menos "
+msgstr "menos "
+
+#: extenso/numero/numeros.py:42
+msgid "mil"
+msgstr "mil"
+
+#: extenso/numero/numeros.py:46 extenso/numero/numeros.py:58
+#: extenso/numero/numeros.py:66
+msgid " e "
+msgstr " e "
+
+#: extenso/numero/numeros.py:48
+msgid " "
+msgstr " "
+
+msgid "fora.do.intervalo"
+msgstr "Fora do intervalo numérico"
+
+msgid "intervalo"
+msgstr "Aceita apenas valores no intervalo [-999999,999999]"
+
