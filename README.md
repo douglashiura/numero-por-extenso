@@ -29,4 +29,4 @@ Exemplos:
 λ curl http://localhost:8000/94587
 { "extenso": "noventa e quatro mil e quinhentos e oitenta e sete" }
 
-OBS.: Certifique-se da porta que o servidor está rodando é a 8000 e o idioma da requisição é melhor pt-br.
+OBS.: Certifique-se que o servidor está rodando na porta 8000 e o idioma pt-br é melhor para requisições.
