@@ -7,7 +7,7 @@ from extenso.numero.intervalo import Unidade, PreDezena, Dezena, \
 class Numeros(object):
 
     def extenso(numero):  # @NoSelf
-        Asseguro(numero).ehInterio()
+        Asseguro(numero).ehInteiro()
         extenso = Extensos.escrito(abs(numero))
         return _("menos ") + extenso if numero < 0 else extenso
 
