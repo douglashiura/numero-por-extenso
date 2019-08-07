@@ -28,7 +28,7 @@ class Asseguro(object):
     def __init__(self, valor):
         self.valor = valor
 
-    def ehInterio(self):
+    def ehInteiro(self):
         try:
             int(self.valor)
         except ValueError:
